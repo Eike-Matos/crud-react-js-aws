@@ -21,3 +21,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamod
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamodb_Scan_section.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamodb_UpdateItem_section.html
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/example_dynamodb_DeleteItem_section.html
+
+### Link to AWS in production:
+
+https://main.d2fjnswgd1rw02.amplifyapp.com
