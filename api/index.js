@@ -1,7 +1,7 @@
 import serverless from "serverless-http";
 import express from "express";
 import cors from "cors";
-import { fetchTasks, createTasks, updateTasks, deleteTasks } from "./task"
+import { fetchTasks, createTasks, updateTasks, deleteTasks } from "./task.js";
 
 const app = express();
 const port = 3001;
